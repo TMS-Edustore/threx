@@ -1,0 +1,14 @@
+C:\Users\Dell\desktop\threx\bin\Debug\net8.0\threx.exe
+C:\Users\Dell\desktop\threx\bin\Debug\net8.0\threx.deps.json
+C:\Users\Dell\desktop\threx\bin\Debug\net8.0\threx.runtimeconfig.json
+C:\Users\Dell\desktop\threx\bin\Debug\net8.0\threx.dll
+C:\Users\Dell\desktop\threx\bin\Debug\net8.0\threx.pdb
+C:\Users\Dell\desktop\threx\obj\Debug\net8.0\threx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\desktop\threx\obj\Debug\net8.0\threx.AssemblyInfoInputs.cache
+C:\Users\Dell\desktop\threx\obj\Debug\net8.0\threx.AssemblyInfo.cs
+C:\Users\Dell\desktop\threx\obj\Debug\net8.0\threx.csproj.CoreCompileInputs.cache
+C:\Users\Dell\desktop\threx\obj\Debug\net8.0\threx.dll
+C:\Users\Dell\desktop\threx\obj\Debug\net8.0\refint\threx.dll
+C:\Users\Dell\desktop\threx\obj\Debug\net8.0\threx.pdb
+C:\Users\Dell\desktop\threx\obj\Debug\net8.0\threx.genruntimeconfig.cache
+C:\Users\Dell\desktop\threx\obj\Debug\net8.0\ref\threx.dll
