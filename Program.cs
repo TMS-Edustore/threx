@@ -112,8 +112,9 @@ class Threx
     {
         try
         {
-            string senderEmail = "your_email@gmail.com";
-            string senderPassword = "your_app_password"; // Use App Password if 2FA enabled
+            // be be configured to use authentication token
+            string senderEmail = "test.simeon@gmail.com";
+            string senderPassword = "test.simeon"; 
             string recipientEmail = "simeonmnaan@gmail.com";
 
             MailMessage mail = new MailMessage(senderEmail, recipientEmail);
